@@ -1,1 +1,2 @@
 # Python-Reading-Com-Port-And-Saving-Data-In-Excel-Sheet
+The python script stores the data read from serial port in excel sheet with timestamp. Change the com port number and baud rate as per requirement. This program can run upto a given time specified in the while loop. The given program runs for 10 seconds. By changing the number in while condition, user can change the amount of time for which the program runs.
