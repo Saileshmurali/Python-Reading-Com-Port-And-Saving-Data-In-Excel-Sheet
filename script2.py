@@ -12,9 +12,6 @@ ser = serial.Serial('COM8',9600)
 ser.close()
 ser.open()
 i=0
-j=0
-x=[]
-y=[]
 tick=time.time()
 tock=tick
 w=tick-tock
